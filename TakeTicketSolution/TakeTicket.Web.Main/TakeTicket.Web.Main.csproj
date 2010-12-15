@@ -64,6 +64,13 @@
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Account\NewAccount.aspx.cs">
+      <DependentUpon>NewAccount.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Account\NewAccount.aspx.designer.cs">
+      <DependentUpon>NewAccount.aspx</DependentUpon>
+    </Compile>
     <Compile Include="Default.aspx.cs">
       <SubType>ASPXCodeBehind</SubType>
       <DependentUpon>Default.aspx</DependentUpon>
@@ -100,6 +107,7 @@
     <Content Include="Config\FileServerMap.config" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Account\NewAccount.aspx" />
     <Content Include="Config\Database.config" />
   </ItemGroup>
   <ItemGroup>
