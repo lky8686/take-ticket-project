@@ -1,0 +1,16 @@
+E:\Project\SVNProjects\Ticket\TakeTicketSolution\TakeTicket.DataAccess\bin\Debug\TakeTicket.DataAccess.dll
+E:\Project\SVNProjects\Ticket\TakeTicketSolution\TakeTicket.DataAccess\bin\Debug\TakeTicket.DataAccess.pdb
+E:\Project\SVNProjects\Ticket\TakeTicketSolution\TakeTicket.DataAccess\bin\Debug\TakeTicket.Model.dll
+E:\Project\SVNProjects\Ticket\TakeTicketSolution\TakeTicket.DataAccess\bin\Debug\TakeTicket.Model.pdb
+E:\Project\SVNProjects\Ticket\TakeTicketSolution\TakeTicket.DataAccess\obj\Debug\ResolveAssemblyReference.cache
+E:\Project\SVNProjects\Ticket\TakeTicketSolution\TakeTicket.DataAccess\obj\Debug\TakeTicket.DataAccess.dll
+E:\Project\SVNProjects\Ticket\TakeTicketSolution\TakeTicket.DataAccess\obj\Debug\TakeTicket.DataAccess.pdb
+E:\Project\SVNProjects\take-tacket-projects\TakeTicketSolution\TakeTicket.DataAccess\obj\Debug\ResolveAssemblyReference.cache
+E:\Project\SVNProjects\take-tacket-projects\TakeTicketSolution\TakeTicket.DataAccess\obj\Debug\TakeTicket.DataAccess.dll
+E:\Project\SVNProjects\take-tacket-projects\TakeTicketSolution\TakeTicket.DataAccess\obj\Debug\TakeTicket.DataAccess.pdb
+E:\Project\SVNProjects\take-tacket-projects\TakeTicketSolution\TakeTicket.DataAccess\bin\Debug\TakeTicket.DataAccess.dll
+E:\Project\SVNProjects\take-tacket-projects\TakeTicketSolution\TakeTicket.DataAccess\bin\Debug\TakeTicket.DataAccess.pdb
+E:\Project\SVNProjects\take-tacket-projects\TakeTicketSolution\TakeTicket.DataAccess\bin\Debug\TakeTicket.Common.dll
+E:\Project\SVNProjects\take-tacket-projects\TakeTicketSolution\TakeTicket.DataAccess\bin\Debug\TakeTicket.Model.dll
+E:\Project\SVNProjects\take-tacket-projects\TakeTicketSolution\TakeTicket.DataAccess\bin\Debug\TakeTicket.Model.pdb
+E:\Project\SVNProjects\take-tacket-projects\TakeTicketSolution\TakeTicket.DataAccess\bin\Debug\TakeTicket.Common.pdb

@@ -1,0 +1,10 @@
+E:\Project\SVNProjects\Ticket\TakeTicketSolution\TakeTicket.Model\bin\Debug\TakeTicket.Model.dll
+E:\Project\SVNProjects\Ticket\TakeTicketSolution\TakeTicket.Model\bin\Debug\TakeTicket.Model.pdb
+E:\Project\SVNProjects\Ticket\TakeTicketSolution\TakeTicket.Model\obj\Debug\ResolveAssemblyReference.cache
+E:\Project\SVNProjects\Ticket\TakeTicketSolution\TakeTicket.Model\obj\Debug\TakeTicket.Model.dll
+E:\Project\SVNProjects\Ticket\TakeTicketSolution\TakeTicket.Model\obj\Debug\TakeTicket.Model.pdb
+E:\Project\SVNProjects\take-tacket-projects\TakeTicketSolution\TakeTicket.Model\bin\Debug\TakeTicket.Model.dll
+E:\Project\SVNProjects\take-tacket-projects\TakeTicketSolution\TakeTicket.Model\bin\Debug\TakeTicket.Model.pdb
+E:\Project\SVNProjects\take-tacket-projects\TakeTicketSolution\TakeTicket.Model\obj\Debug\ResolveAssemblyReference.cache
+E:\Project\SVNProjects\take-tacket-projects\TakeTicketSolution\TakeTicket.Model\obj\Debug\TakeTicket.Model.dll
+E:\Project\SVNProjects\take-tacket-projects\TakeTicketSolution\TakeTicket.Model\obj\Debug\TakeTicket.Model.pdb

@@ -1,0 +1,50 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TakeTicket.Bussiness", "TakeTicket.Bussiness\TakeTicket.Bussiness.csproj", "{D454AB0C-E20F-4504-8554-0365D388D572}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TakeTicket.Model", "TakeTicket.Model\TakeTicket.Model.csproj", "{88794B5A-8495-42E5-8CA5-F50CDD58AC69}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TakeTicket.DataAccess", "TakeTicket.DataAccess\TakeTicket.DataAccess.csproj", "{7377DEAA-7A44-42D5-8E73-6CDF3BB2C790}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TakeTicket.Common", "TakeTicket.Common\TakeTicket.Common.csproj", "{1B8E5E8E-E7C7-43E5-9980-A1B991986F51}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TakeTicket.Web.Main", "TakeTicket.Web.Main\TakeTicket.Web.Main.csproj", "{83CE03DE-7A93-49F0-B7BF-487F2ADA60DE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TakeTicket.Web.AdminSys", "TakeTicket.Web.AdminSys\TakeTicket.Web.AdminSys.csproj", "{FBA98D31-791C-4DD8-A987-22C2844F0348}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D454AB0C-E20F-4504-8554-0365D388D572}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D454AB0C-E20F-4504-8554-0365D388D572}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D454AB0C-E20F-4504-8554-0365D388D572}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D454AB0C-E20F-4504-8554-0365D388D572}.Release|Any CPU.Build.0 = Release|Any CPU
+		{88794B5A-8495-42E5-8CA5-F50CDD58AC69}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88794B5A-8495-42E5-8CA5-F50CDD58AC69}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88794B5A-8495-42E5-8CA5-F50CDD58AC69}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88794B5A-8495-42E5-8CA5-F50CDD58AC69}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7377DEAA-7A44-42D5-8E73-6CDF3BB2C790}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7377DEAA-7A44-42D5-8E73-6CDF3BB2C790}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7377DEAA-7A44-42D5-8E73-6CDF3BB2C790}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7377DEAA-7A44-42D5-8E73-6CDF3BB2C790}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1B8E5E8E-E7C7-43E5-9980-A1B991986F51}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B8E5E8E-E7C7-43E5-9980-A1B991986F51}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B8E5E8E-E7C7-43E5-9980-A1B991986F51}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B8E5E8E-E7C7-43E5-9980-A1B991986F51}.Release|Any CPU.Build.0 = Release|Any CPU
+		{83CE03DE-7A93-49F0-B7BF-487F2ADA60DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83CE03DE-7A93-49F0-B7BF-487F2ADA60DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83CE03DE-7A93-49F0-B7BF-487F2ADA60DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83CE03DE-7A93-49F0-B7BF-487F2ADA60DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FBA98D31-791C-4DD8-A987-22C2844F0348}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBA98D31-791C-4DD8-A987-22C2844F0348}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBA98D31-791C-4DD8-A987-22C2844F0348}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBA98D31-791C-4DD8-A987-22C2844F0348}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
